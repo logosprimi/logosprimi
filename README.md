@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @logosprimi
-- 👀 I’m interested in life
-- 🌱 I’m currently learning computer science
+- 👀(https://www.debian.org/doc/manuals/debian-handbook/preface.en.html)
+- 🌱
 
 
 <!---
