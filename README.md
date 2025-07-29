@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @logosprimi
 - 👀
-- https://www.debian.org/doc/manuals/debian-handbook/sect.foundation-documents.en.html
 - 🌱
 
 
